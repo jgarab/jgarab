@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Jozsef Garab
-- 👀 I’m interested in data visualization, business intelligence.
+- 👋 Hi, I’m Jozsef Garab from Sopron, Hungary.
 
 <!---
 jgarab/jgarab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
