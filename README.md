@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jozsef Garab from Sopron, Hungary.
+Hi, I’m Jozsef Garab from Sopron, Hungary. 
 
 <!---
 jgarab/jgarab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
